@@ -1,0 +1,3 @@
+[submodule "Library/GitHubLib"]
+	path = Library/GitHubLib
+	url = https://github.com/rusucc/KiCAD-library.git

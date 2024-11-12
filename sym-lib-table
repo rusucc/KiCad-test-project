@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MC33926PNB")(type "KiCad")(uri "${KIPRJMOD}/Library/GitHubLib/Modules/MC33926PNB/MC33926PNB.kicad_sym")(options "")(descr ""))
+  (lib (name "QRE1113GR")(type "KiCad")(uri "${KIPRJMOD}/Library/GitHubLib/Modules/QRE1113GR/QRE1113GR.kicad_sym")(options "")(descr ""))
+)
